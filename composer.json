@@ -1,5 +1,5 @@
 {
-	"name": "yiisoft/yii2-coding-standards",
+	"name": "denisogr/yii2-coding-standards",
 	"description": "Yii PHP Framework Version 2 - Coding standard tools",
 	"keywords": ["yii", "framework", "codesniffer"],
 	"homepage": "http://www.yiiframework.com/",
@@ -38,6 +38,12 @@
 			"name": "Paul Klimov",
 			"email": "klimov.paul@gmail.com",
 			"role": "Core framework development"
+		},
+			{
+			"name": "Denis Porplenko",
+			"email": "denis.porplenko@pdffiller.com",
+			"homepage": "http://www.pdffiller.com.ua/",
+			"role": "Developer in Marketing"
 		}
 	],
 	"support": {
